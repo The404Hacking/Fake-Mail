@@ -3,7 +3,7 @@
 
 Send fake e-mails to anyone, with custom sender. Use it at your own risks. 
 
-Feel free to use it, edit it and do whatever you want.
+Feel free to use it, edit it and do whatever you want. [Share](https://telegram.me/share/url?url=https://github.com/The404Hacking/Fake-Mail&text=Fake%20Mail%20PHP%20Script)
 
 ## Download and Clone
 > Download: [https://github.com/The404Hacking/Fake-Mail/archive/master.zip](https://github.com/The404Hacking/Fake-Mail/archive/master.zip)
