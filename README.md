@@ -1,9 +1,13 @@
-fake-mail
+[Fake-Mail](https://github.com/The404Hacking/Fake-Mail)
 =========
 
 Send fake e-mails to anyone, with custom sender. Use it at your own risks. 
 
 Feel free to use it, edit it and do whatever you want.
+
+## Download and Clone
+> Download: [https://github.com/The404Hacking/Fake-Mail/archive/master.zip](https://github.com/The404Hacking/Fake-Mail/archive/master.zip)
+  > Clone: git clone [https://github.com/The404Hacking/Fake-Mail/archive/master.zip](https://github.com/The404Hacking/Fake-Mail/archive/master.zip)
 
 ## The404Hacking | Digital UnderGround Team
 [The404Hacking](https://T.me/The404Hacking)
